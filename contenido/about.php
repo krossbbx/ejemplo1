@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -15,13 +14,6 @@ and open the template in the editor.
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     </head>
     <body>
-        <div id="contenedor">
-            <div id="titulo">
-                HOSTALRIOAMAZONAS RESERVATION ONLINE
-            </div>
-            <div id="menu"><?php include('menu.php');?></div>
-            <div id="contenido"></div>
-        </div>
+        <p id="tc">UNDER CONSTRUCTION</p>
     </body>
-    
 </html>
