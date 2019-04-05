@@ -18,6 +18,7 @@ and open the template in the editor.
         <div id="contenedor">
             <div id="titulo">
                 HOSTALRIOAMAZONAS RESERVATION ONLINE
+                <META HTTP-EQUIV="REFRESH" CONTENT="5;URL=localhost:801/index.php"> 
             </div>
             <div id="menu"><?php include('menu.php');?></div>
             <div id="contenido"></div>

@@ -14,6 +14,10 @@ and open the template in the editor.
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     </head>
     <body>
-        <p id="tc">UNDER CONSTRUCTION</p>
+        <p id="tc" align="center"> <font size="100"> UNDER CONSTRUCTION </font></p>
+    <center>
+        <img src="https://friendlystock.com/wp-content/uploads/2019/01/5-sloth-under-construction-cartoon-clipart.jpg" >
+    </center>
+
     </body>
 </html>
